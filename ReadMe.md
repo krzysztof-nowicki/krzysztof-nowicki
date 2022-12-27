@@ -6,8 +6,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krzysztof-nowicki&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztof-nowicki&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### Random Meme
+<img src="https://cdn.discordapp.com/attachments/297096494643675136/1057383441479503943/Itsanabstractkindameme_5304ac45830b5910122a9fdcbf185136.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=krzysztof-nowicki&icon=0&color=6)](https://visitcount.itsvg.in)
