@@ -25,7 +25,7 @@
             env:
               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             run: |
-              python github_card.py --user krzysztof-nowicki --out github_card.svg
+              python ./scripts/github_card.py --user krzysztof-nowicki --out github_card.svg
               # If output is saved in output/, move it:
               if [ -f "output/github_card.svg" ]; then
                 mv output/github_card.svg github_card.svg
