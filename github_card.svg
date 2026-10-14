@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="270" viewBox="0 0 560 270" role="img" aria-label="GitHub stats card for krzysztof-nowicki">
+<title>GitHub stats for krzysztof-nowicki</title>
+<defs><linearGradient id="glow" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a3172a" stop-opacity="0.35"/><stop offset="1" stop-color="#0c0d13" stop-opacity="0"/></linearGradient></defs>
+<rect width="560" height="270" rx="6" fill="#0c0d13"/>
+<rect width="560" height="90" rx="6" fill="url(#glow)"/>
+<rect x="6" y="6" width="548" height="258" rx="3" fill="none" stroke="#c9a24a" stroke-width="2"/>
+<rect x="12" y="12" width="536" height="246" rx="2" fill="none" stroke="#c9a24a" stroke-width="0.8" opacity="0.6"/>
+<path d="M12 6 L18 12 L12 18 L6 12 Z" fill="#d8263d" stroke="#c9a24a" stroke-width="1"/>
+<path d="M548 6 L554 12 L548 18 L542 12 Z" fill="#d8263d" stroke="#c9a24a" stroke-width="1"/>
+<path d="M12 252 L18 258 L12 264 L6 258 Z" fill="#d8263d" stroke="#c9a24a" stroke-width="1"/>
+<path d="M548 252 L554 258 L548 264 L542 258 Z" fill="#d8263d" stroke="#c9a24a" stroke-width="1"/>
+<text x="280.0" y="52" text-anchor="middle" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="26" font-weight="700" letter-spacing="2" fill="#f0cf7a">krzysztof-nowicki</text>
+<text x="280.0" y="72" text-anchor="middle" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="11" letter-spacing="4" fill="#8d8a99">CHRONICLE OF COMMITS</text>
+<path d="M150 82 H270.0 M290.0 82 H410" stroke="#c9a24a" stroke-width="1"/>
+<path d="M280.0 77 L285.0 82 L280.0 87 L275.0 82 Z" fill="#d8263d"/>
+<text x="40" y="122" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="30" font-weight="700" fill="#d8263d">13</text>
+<text x="40" y="140" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="10" letter-spacing="2" fill="#8d8a99">REPOSITORIES</text>
+<text x="200" y="122" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="30" font-weight="700" fill="#d8263d">4</text>
+<text x="200" y="140" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="10" letter-spacing="2" fill="#8d8a99">FOLLOWERS</text>
+<text x="360" y="122" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="30" font-weight="700" fill="#d8263d">0</text>
+<text x="360" y="140" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="10" letter-spacing="2" fill="#8d8a99">STARS EARNED</text>
+<text x="40" y="168" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="10" letter-spacing="2" fill="#8d8a99">LAST PUSH</text>
+<text x="120" y="168" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="13" fill="#e9e1cf">14 Oct 2026 (today)</text>
+<clipPath id="bar"><rect x="40" y="186" width="480" height="10" rx="2"/></clipPath>
+<rect x="40" y="186" width="480" height="10" rx="2" fill="#14151e"/>
+<g clip-path="url(#bar)">
+<rect x="40.0" y="186" width="449.6" height="10" fill="#d8263d"/>
+<rect x="489.6" y="186" width="12.3" height="10" fill="#c9a24a"/>
+<rect x="501.9" y="186" width="6.1" height="10" fill="#e9e1cf"/>
+<rect x="508.0" y="186" width="5.2" height="10" fill="#a3172a"/>
+<rect x="513.2" y="186" width="5.2" height="10" fill="#f0cf7a"/>
+</g>
+<rect x="40" y="208" width="8" height="8" fill="#d8263d"/>
+<text x="53" y="216" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="11" fill="#e9e1cf">C 94%</text>
+<rect x="98" y="208" width="8" height="8" fill="#c9a24a"/>
+<text x="110" y="216" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="11" fill="#e9e1cf">JavaScript 3%</text>
+<rect x="207" y="208" width="8" height="8" fill="#e9e1cf"/>
+<text x="220" y="216" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="11" fill="#e9e1cf">Assembly 1%</text>
+<rect x="304" y="208" width="8" height="8" fill="#a3172a"/>
+<text x="316" y="216" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="11" fill="#e9e1cf">C++ 1%</text>
+<rect x="368" y="208" width="8" height="8" fill="#f0cf7a"/>
+<text x="380" y="216" font-family="Cinzel, 'Palatino Linotype', Georgia, serif" font-size="11" fill="#e9e1cf">Python 1%</text>
+</svg>
